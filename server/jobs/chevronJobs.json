@@ -1,0 +1,55 @@
+{
+    "jobs": [
+      {
+        "id": "eng-001",
+        "title": "Software Engineer",
+        "description": "Design and develop software applications for energy systems",
+        "skills": [
+          "javascript",
+          "python",
+          "react",
+          "node.js",
+          "aws",
+          "docker",
+          "kubernetes",
+          "ci/cd",
+          "agile",
+          "git"
+        ]
+      },
+      {
+        "id": "data-001",
+        "title": "Data Scientist",
+        "description": "Analyze complex datasets to drive business decisions",
+        "skills": [
+          "python",
+          "r",
+          "machine learning",
+          "sql",
+          "statistics",
+          "data visualization",
+          "tensorflow",
+          "pandas",
+          "numpy",
+          "big data"
+        ]
+      },
+      {
+        "id": "cloud-001",
+        "title": "Cloud Infrastructure Engineer",
+        "description": "Design and maintain cloud infrastructure",
+        "skills": [
+          "aws",
+          "azure",
+          "terraform",
+          "kubernetes",
+          "docker",
+          "linux",
+          "networking",
+          "security",
+          "python",
+          "bash"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,50 @@
+
+
+ 
+Jadin Hutchinson 
+ 
+      Atlanta, GA • jadin.hutchinson.future@gmail.com • 678-200-7932 
+ 
+Education 
+North Carolina Agricultural & Technical State University Greensboro, NC 
+Bachelors, Computer Science.                                                                                                       Dec, 2027 
+Relevant Coursework: Computer Programming, Program Design, Data Structures 
+   
+Hebron Christian Academy                                                                                                                                  Dacula, GA 
+3.7 GPA, Beta Club Member, Volunteer Work, Student Athlete, Athletic Coach Assistant            May, 2024 
+ 
+Experience 
+ 
+CS Projects 
+ Python 
+ 
+ 
+ 
+Greensboro, NC 
+2024 
+● Developed a program that interacts with Spotify’s API to retrieve information from their database. 
+● Programmed a search engine utilizing python to reach out to the web and retrieve articles based off of user input. 
+ 
+              Java 
+● Developed an application in that would allow users to plan and track their expense, being able to set a budget and 
+track any transactions 
+             Javascript, CSS, HTML, React, API Dev. 
+● Developed a website for real-estate agents, called RealtiFy with an easy-to-use UI to register and list properties for 
+people looking to buy or rent. 
+ 
+Projects 
+● Founded my own scholarship called the “JA-TEK” Award in order to give back to future kids who aspire to be in 
+technology 
+ 
+ 
+          Leadership & Activities 
+NCAT ACM Hackathon 8.0                                                                                                                         Greensboro, NC 
+Group Leader                                   2024 
+ 
+● Directed my group in formulating a solution for NetApp that would stabilize and equally distribute cooling to 
+different sectors of a data center. 
+ 
+         Skills & Interests 
+Technical: Python, Java, Javascript, CSS, HTML, C++, React, API Development 
+Language: Chinese (Intermediate) 
+Interests: Published Author, Stock Trader, Industrial Music Producer 

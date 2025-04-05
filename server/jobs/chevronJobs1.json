@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Software Engineer",
+      "skills": ["JavaScript", "React", "Node.js", "APIs", "Git", "Agile"]
+    },
+    {
+      "title": "Data Analyst",
+      "skills": ["SQL", "Excel", "Python", "Data Visualization", "Power BI"]
+    },
+    {
+      "title": "Mechanical Engineer",
+      "skills": ["AutoCAD", "Matlab", "SolidWorks", "Project Management"]
+    }
+  ]
+  
