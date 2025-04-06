@@ -4,6 +4,7 @@ ChevConnect is a smart, AI-powered resume and LinkedIn profile matcher designed 
 
 
 
+[![Watch the video](https://img.youtube.com/vi/HO4uK22G0gg/maxresdefault.jpg)](https://youtu.be/HO4uK22G0gg)
 
 
 
