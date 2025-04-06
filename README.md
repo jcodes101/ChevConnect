@@ -2,6 +2,11 @@
 
 ChevConnect is a smart, AI-powered resume and LinkedIn profile matcher designed to help job seekers assess how well their skills align with real job and internship opportunities at **Chevron**. By leveraging OpenAI's GPT model, ChevConnect intelligently parses uploaded resumes (PDF format) or LinkedIn profiles and compares the extracted skills against job descriptions scraped from Chevron.com.
 
+
+
+
+
+
 ---
 
 ## 🚀 Features
